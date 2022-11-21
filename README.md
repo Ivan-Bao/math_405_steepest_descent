@@ -88,3 +88,4 @@ We will learn how to construct "spectral methods" to obtain high-accuracy soluti
 <img src="files/cahnhilliard_formula.png" width="200" />
 <img src="files/cahnhilliard.gif" width="300" />
 
+# math_405_steepest_descent
